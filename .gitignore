@@ -3,3 +3,12 @@
 ################################################################################
 
 /.vs
+/QuestSystem/x64
+/Sample/x64
+/UnitTest1/x64
+/x64/Debug/Sample.exe
+/x64/Debug/Sample.pdb
+/x64/Debug/UnitTest1.dll
+/x64/Debug/UnitTest1.exp
+/x64/Debug/UnitTest1.lib
+/x64/Debug/UnitTest1.pdb
